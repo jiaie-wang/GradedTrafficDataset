@@ -11,16 +11,16 @@ This page contains our data recordings, sorted by scenario complexity. So far, w
 ><br>•	Semantic destriptor(stored as text file)
 
 The data directory is shown as follows:
-![](https://github.com/jiaie-wang/GradedTrafficDataset/blob/master/content.jpg)
+
 Here,"synced+rectified" refers to the processed data where images have been rectified and undistorted and where the data frame numbers correspond across all sensor streams. Most people require only the "synced+rectified" version of the files.
 ## Current capabilities for visual cognitive tasks
  
 F1 scores of two intelligent vehicle contest participators A (shown in blue) and B (shown in orange), in the proposed Graded offline Evaluation(GOE) framework, with individual scores for roadway segments with three scenario complexities. 60%, 35% and 5% of the roadway segments are rated as simple, medium, and complex, respectively.
- 
+![](https://github.com/jiaie-wang/GradedTrafficDataset/blob/master/records%20for%20FV%26PD.png)
 Records of GOE in lane detection evaluation. (a) Histograms of GOE results. (b)-(c) Cascaded tank model based visualization and comparison of Platform A and B, respectively.
- 
+![](https://github.com/jiaie-wang/GradedTrafficDataset/blob/master/records%20for%20LD.png)
 Records of GOE in front vehicle and pedestrian detection. (a)Histograms of GOE results. (b)-(c) Cascaded tank model based visualization and comparison of Platform A and B, respectively.
- 
+![](https://github.com/jiaie-wang/GradedTrafficDataset/blob/master/records%20for%20TS%26SD.png)
 Records of GOE in traffic sign & signal detection evaluation. (a)Histograms of GOE results. (b)-(c) Cascaded tank model based visualization and comparison of Platform A and B, respectively
 
 ## Data segment introduction
