@@ -4,11 +4,11 @@ We release a Graded Traffic Dataset which is organized by quantifying scenario c
 
 ## The Graded Traffic Dataset
 This page contains our data recordings, sorted by scenario complexity. So far, we included only sequences, for which we either have 3D object labels. The dataset comprises the following information, captured and synchronized at 10 Hz:
-•	Processed (synced+rectified) color stereo sequences (0.5 Megapixels, stored in jpg format)
-•	3D Velodyne point clouds (100k points per frame, stored as matlab file)
-•	Calibration (Camera-to-Velodyne, stored as text file)
-•	2D and 3D object tracklet labels (vehicle, stored as text file)
-•	Semantic destriptor(stored as text file)
+<br>•	Processed (synced+rectified) color stereo sequences (0.5 Megapixels, stored in jpg format)\<br>
+<br>•	3D Velodyne point clouds (100k points per frame, stored as matlab file)\<br>
+<br>•	Calibration (Camera-to-Velodyne, stored as text file)\<br>
+<br>•	2D and 3D object tracklet labels (vehicle, stored as text file)\<br>
+<br>•	Semantic destriptor(stored as text file)\<br>
 
 The data directory is shown as follows:
  
