@@ -30,23 +30,23 @@ The data directory is shown as follows:
 <br>It Contains 5 data segments.\
 <br>e.g.segment_001\
 ![image](https://github.com/jiaie-wang/GradedTrafficDataset/blob/master/Gif/segment_001.gif)
-<br>Length: 200 frames\
-<br>Image resolution: 1920 x 620 pixels\
-<br>Labels: 6 Cars\
+><br>Length: 200 frames\
+><br>Image resolution: 1920 x 620 pixels\
+><br>Labels: 6 Cars
 ### Medium data(630M)
 <br>It Contains 4 data segments.\
 <br>e.g.segment_007\
 ![image](https://github.com/jiaie-wang/GradedTrafficDataset/blob/master/Gif/segment_007.gif)
-<br>Length: 32 frames\
-<br>Image resolution: 1920 x 620 pixels\
-<br>Labels: 12 Cars\
+><br>Length: 32 frames\
+><br>Image resolution: 1920 x 620 pixels\
+><br>Labels: 4 Cars
 ### Hard data(2.39G)
 <br>It contains 13 data segments.\
 <br>e.g.segment_015\
 ![image]()
-<br>Length: 69 frames\
-<br>Image resolution: 1920 x 620 pixels\
-<br>Labels: 9 Cars\
+><br>Length: 69 frames\
+><br>Image resolution: 1920 x 620 pixels\
+><br>Labels: 9 Cars
 
 
 >Note: We were not able to annotate all sequences and only provide those tracklet annotations that passed the 3rd human validation stage, ie, those that are of very high quality. For sequences for which tracklets are available, you will find the tracklets in the package. 
