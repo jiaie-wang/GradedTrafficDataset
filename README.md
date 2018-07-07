@@ -29,4 +29,4 @@ Records of GOE in traffic sign & signal detection evaluation. (a)Histograms of G
 >Note: We were not able to annotate all sequences and only provide those tracklet annotations that passed the 3rd human validation stage, ie, those that are of very high quality. For sequences for which tracklets are available, you will find the tracklets in the package. 
 
 ## Contact us
->>If you want to download this dataset, please contact us by E-mail: wangjiajie@stu.xjtu.edu.cn
+If you want to download this dataset, please contact us by E-mail: wangjiajie@stu.xjtu.edu.cn
