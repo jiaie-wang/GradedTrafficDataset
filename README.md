@@ -8,7 +8,7 @@ This page contains our data recordings, sorted by scenario complexity. So far, w
 <br>•	3D Velodyne point clouds (100k points per frame, stored as matlab file)\
 <br>•	Calibration (Camera-to-Velodyne, stored as text file)\
 <br>•	2D and 3D object tracklet labels (vehicle, stored as text file)\
-<br>•	Semantic destriptor(stored as text file)\
+<br>•	Semantic destriptor(stored as text file)
 
 The data directory is shown as follows:
  
