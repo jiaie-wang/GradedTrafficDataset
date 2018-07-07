@@ -25,26 +25,26 @@ Records of GOE in traffic sign & signal detection evaluation. (a)Histograms of G
 
 ## The introduction of Data segments 
 ### Simple data(1.34G)
+It Contains 5 data segments.
 e.g.segment_001
-![image]()
-Size:
-Length: 114 frames (00:11 minutes)
-Image resolution: 1392 x 512 pixels
-Labels: 12 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 2 Cyclists, 1 Trams, 0 Misc
+![image](https://github.com/jiaie-wang/GradedTrafficDataset/blob/master/Gif/segment_001.gif)
+Length: 200 frames
+Image resolution: 1920 x 620 pixels
+Labels: 6 Cars
 ### Medium data(630M)
+It Contains 4 data segments.
 e.g.segment_007
-Size:
-![image]()
-Length: 114 frames (00:11 minutes)
-Image resolution: 1392 x 512 pixels
-Labels: 12 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 2 Cyclists, 1 Trams, 0 Misc
+![image](https://github.com/jiaie-wang/GradedTrafficDataset/blob/master/Gif/segment_007.gif)
+Length: 32 frames
+Image resolution: 1920 x 620 pixels
+Labels: 12 Cars
 ### Hard data(2.39G)
+It contains 13 data segments.
 e.g.segment_015
 ![image]()
-Size:
-Length: 114 frames (00:11 minutes)
-Image resolution: 1392 x 512 pixels
-Labels: 12 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 2 Cyclists, 1 Trams, 0 Misc
+Length: 69 frames 
+Image resolution: 1920 x 620 pixels
+Labels: 9 Cars
 
 
 >Note: We were not able to annotate all sequences and only provide those tracklet annotations that passed the 3rd human validation stage, ie, those that are of very high quality. For sequences for which tracklets are available, you will find the tracklets in the package. 
